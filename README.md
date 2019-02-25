@@ -4,7 +4,7 @@
 ## Overview
  
 
-* This is shopping application that uses customer input to order items using database. 
+* This is a shopping application that uses customer input to order items using database. 
 * Built with javascript, node.js with node packages MySql and inquirer.
 
 
